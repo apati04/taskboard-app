@@ -1,0 +1,8 @@
+{
+  "name": "taskboard-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/apati04/taskboard-app.git",
+  "author": "Andrew Patipaksiri <apax714@gmail.com>",
+  "license": "MIT"
+}
